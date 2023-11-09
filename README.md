@@ -1,2 +1,2 @@
-# node-red-test
-Only repository fpr Node Red testing
+# node-red
+Only repository for Node Red testing
